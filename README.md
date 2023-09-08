@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Andres Alvarez Pineda, I am a data scientis with strong engineering foundations such as mathematics, statistics and signal/data processing. I have completed a post graduate diploma in applied artificial intelligence and bachelor in science with major in biomedical engineering.
+My name is Andres Alvarez Pineda, I am a data scientist with strong engineering foundations such as mathematics, statistics and signal/data processing. I have completed a post graduate diploma in applied artificial intelligence and bachelor in science with major in biomedical engineering.
 
 Check out my data Science portfolio with the projects I have done.
 

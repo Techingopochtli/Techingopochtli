@@ -1,8 +1,25 @@
 ### Hi there 👋
 
-My name is Andres Alvarez Pineda, I am a data scientist with strong engineering foundations such as mathematics, statistics and signal/data processing. I have completed a post graduate diploma in applied artificial intelligence and bachelor in science with major in biomedical engineering.
+I'm **Andres Alvarez Pineda** — a passionate **Data Engineer and Azure Solutions Architect** with a strong foundation in **engineering, mathematics, and applied AI**.
 
-Check out my data Science portfolio with the projects I have done that includes:
+🔧 I specialize in:
+- Building **scalable data infrastructure** using Azure services
+- Designing **ETL pipelines** and **Data Lakehouse architectures**
+- Developing **decentralized payment systems** on the **Tron and Ethereum networks**
+- Automating financial processes with **Python**, **NumPy**, **SciPy**, and **Azure Container Instances**
+
+
+🎓 I hold a **Diploma in Applied Artificial Intelligence** and a **Bachelor’s degree in Biomedical Engineering**, with coursework in machine learning, probabilistic reasoning, and signal processing.
+
+📫 Let’s connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andres-alvarez-pineda?)
+- 💻 [GitHub Projects](https://github.com/Techingopochtli)
+
+---
+
+Feel free to check out my repositories to see what I’m working on!
+
+My data Science portfolio with the projects I have done that includes:
 
 
 
